@@ -1,13 +1,13 @@
 # Setup
 title:        Lizard Wrestling
 tagline:      test
-baseurl:      "site"
+baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
   name:       Cliff Frasure
-  url:        http://lizardwrestling.com 
+  url:        "http://lizardwrestling.com"
 
 # Gems
 gems:
