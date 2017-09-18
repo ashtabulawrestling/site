@@ -3,6 +3,6 @@ layout: default
 title: {{ site.name }}
 ---
 
-![Lizards Wrestling](site/assets/Lizards.png){:class="img-responsive"}
+![Lizards Wrestling](/assets/Lizards.png){:class="img-responsive"}
 
 # Homepage
