@@ -17,4 +17,4 @@ Come check out we are and what we do! Open mats start October 5th 5:30-730, and 
 ## Documents
 - [2017 Flyer]({{ site.baseurl }}/_documents/Wrestling Flyer2017.docx)
 - [2017 Flyer](_documents/Wrestling Flyer2017.docx)
-- [Registration Form](_documents/RegistrationForm.pdf)
+- [Registration Form]({{ site.baseurl }}/_documents/RegistrationForm.pdf)
