@@ -15,5 +15,5 @@ Please use the link above to sign your wrestlers up. Fee is 70$ which includes a
 Come check out we are and what we do! Open mats start October 5th 5:30-730, and will be held every thursday at Edgewood High School. Open mats are free of charge and open to anyone from any team or school ages 5-17. Focus will be on introducing the sport of wrestling to new wrestlers.
 
 ## Documents
-- [2017 Flyer](Wrestling Flyer2017.docx)
+- [2017 Flyer](WrestlingFlyer2017.docx)
 - [Registration Form](RegistrationForm.pdf)
