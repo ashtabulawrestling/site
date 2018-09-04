@@ -1,0 +1,26 @@
+---
+layout: default
+title: {{ site.name }}
+faq:
+  - question: What is the practice schedule?
+    answer: Monday (Lakeside), Tuesday (Edgewood), Thursday (rotation between Lakeside and Edgewood)
+  - question: Where are practices located?
+    answer: Intructions are included here: [Practice Locations](directions.md)
+---
+
+<h1>FAQ</h1>
+
+<section class="faq">
+	<ul>
+		{% for item in page.faq %}
+			<li><a href="#{{ item.question | slugify }}">{{ item.question }}</a></li>
+		{% endfor %}
+	</ul>
+
+	{% for item in page.faq %}
+		<h2 id="{{ item.question | slugify}}">{{ item.question }}<a class="header-link" href="#{{ item.question | slugify }}">#</a></h2>
+		{{ item.answer | markdownify }}
+	{% endfor %}
+</section>
+
+
