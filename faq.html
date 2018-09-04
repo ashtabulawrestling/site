@@ -13,7 +13,7 @@ faq:
 <section class="faq">
 	<ul>
 		{% for item in page.faq %}
-			<li><a href="#{{ item.question | slugify }}">{{ item.question }}</a></li>
+			<li><a href="#{{ item.question }}">{{ item.question }}</a></li>
 		{% endfor %}
 	</ul>
 
