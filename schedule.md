@@ -3,8 +3,6 @@ layout: default
 title: {{ site.name }}
 ---
 
-# Lizard Wrestling
-
 ## Not updated yet. Check back in Mid/Late October.
 ## You can add public calendar 'Ashtabula Lizards 2018-2019' to your google calendar then sync it to your phone.  
 
