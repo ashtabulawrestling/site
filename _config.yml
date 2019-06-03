@@ -1,13 +1,13 @@
 # Setup
-title:        "Lizard Wrestling"
-tagline:      Buckeye and Ashtabula Schools
+title:        "Ashtabula Wrestling"
+tagline:      "Advancing the sport of wrestling at all levels"
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
   name:       Cliff Frasure
-  url:        "http://lizardwrestling.com"
+  url:        "http://ashtabulawrestling.com"
 
 # Gems
 gems:
