@@ -3,7 +3,7 @@ layout: default
 title: {{ site.name }}
 ---
 
-<span style="display:block;text-align:center">![Ashtabula Wrestling](Assassins3.png){:class="img-responsive" height="316px" width="320px"}</span>
+<span style="display:block;text-align:center">![Ashtabula Wrestling](Assassins3.png)</span>
 
 # About
 The focus of our youth wrestling program is to provide a fun environment to develop basic wrestling skills. Wrestling teaches values that last a lifetime, go far beyond winning or losing, and set the foundation for a rewarding career in athletics, and success in life. Ashtabula Wrestling start offical practices October 28th.   
