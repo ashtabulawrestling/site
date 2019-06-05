@@ -18,4 +18,4 @@ Come check out we are and what we do! Open mats start October 1st 5:30-730, and 
 - [2018 Flyer](WrestlingFlyer2018.pdf)
 - [Registration Form](RegistrationForm.pdf)
 - [Open Mat Medical Waiver](OpenMatMedicalwaiver.pdf)
-- [Ashtabula Lizard Wrestling Bylaws](AshtabulaWrestlingBylaws.pdf)
+- [Ashtabula Wrestling Bylaws](AshtabulaWrestlingBylaws.pdf)
