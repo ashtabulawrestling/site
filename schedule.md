@@ -8,7 +8,7 @@ title: {{ site.name }}
 ### Add using a link on a computer
 
 1. On a computer, open Calendar.
-2. Next to "Other calendars" on the left, click the Down arrow Down Arrow.
+2. Next to "Other calendars" on the left, click the Down arrow.
 3. Select Add by URL.
 4. https://calendar.google.com/calendar/ical/458rdqvce3ases0e35i0pg4308%40group.calendar.google.com/public/basic.ics
 5. Click Add Calendar. The calendar will appear on the left side under "Other calendars."
