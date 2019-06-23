@@ -7,7 +7,7 @@ title: {{ site.name }}
 
 Only submit a payment if you have filled out a registration form online or on site. 
 
-Fee: 70$ Per wrestler. Please include your wrestler names in the payment instructions.
+Fee: 50$ Per wrestler. Please include your wrestler names in the payment instructions.
 
 Payment Includes:
 * Wrestling warm up (fighter shorts and compression top)
