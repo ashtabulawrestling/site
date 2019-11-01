@@ -3,7 +3,8 @@ layout: default
 title: {{ site.name }}
 ---
 
-[logo]: winter_logo.png "Logo"
+<span style="display:block;text-align:center">![Ashtabula Wrestling](winter_logo.png)</span>
+
 
 # About
 Focus of our youth wrestling program is to provide a fun environment to develop basic wrestling skills. Wrestling teaches values that last a lifetime, go far beyond winning or losing, and set the foundation for a rewarding career in athletics, and success in life. Open mats start Oct 1st and offical practices October 28th.   
